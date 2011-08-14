@@ -1,0 +1,31 @@
+body {
+  /* background-color: #888; */
+  font-family: Verdana, sans-serif;
+  font-weight: normal;
+  font-size: 18px;
+  margin: 25px;
+}
+
+form {
+  margin: 0;
+  margin-bottom: 10px;
+  padding: 25px;
+  background-color: #eee;
+  border: 5px solid #333;
+}
+
+fieldset {
+  border: none;
+}
+
+#spinner {
+  float: right;
+  margin: 10px;
+}
+
+#photos img {
+  border: 1px solid #000;
+  width: 144px;
+  height: 108px;
+  margin: 10px;
+}
