@@ -1,7 +1,7 @@
 class FlickrController < ApplicationController  
   def search
-     FlickRaw.api_key="c3571f443bcb33272d637d7cf8400dfb"
-     FlickRaw.shared_secret="89d97ff957dadfbb"
+     FlickRaw.api_key="####"
+     FlickRaw.shared_secret="#####"
 	 
 	 #render :partial => "photo.html", 
 	 #       :collection => getSizes(params[:tags])
